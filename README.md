@@ -1,6 +1,6 @@
 # Acme
 
-Create a responsive landing page for web design services, featuring sections for newsletter subscription, information about your company, and a list of services offered.
+A responsive landing page for web design services, featuring sections for newsletter subscription, information about your company, and a list of services offered.
 
 ![Acme Landing Page Preview](https://github.com/somayehva/Acme/blob/main/Acme.png)
 
