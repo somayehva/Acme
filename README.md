@@ -6,7 +6,7 @@ A responsive landing page for web design services, featuring sections for newsle
 
 ## Demo
 
-You can view the live landing page [here](link-to-your-live-demo).
+You can view the live landing page [here](http://somayeh.me/acme/).
 
 ## Technologies Used
 
